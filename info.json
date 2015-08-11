@@ -1,6 +1,6 @@
 {
   "siteTitle": "Alexander Biskop",
-  "siteDescription": "My awesome personal site, i'm a Corgi!",
+  "siteDescription": "Alexander Biskop - my personal site",
   "avatar": "http://static.a2x.me/img/avatar.jpg",
   "background": "http://static.a2x.me/img/background.jpg",
   "description": "Hi there! I'm Alexander Biskop, Software Engineer. Currently living in Mannheim, Germany.",
@@ -9,5 +9,8 @@
     {"icon": "social-stack-overflow", "link": "http://stackoverflow.com/users/342875/alexander-biskop"},
     {"icon": "paperclip", "link": "https://todo.todo"}
   ],
-  "projects": [{"title": "simple-jcps", "link":"http://foo.bar"}]
+  "projects": [
+    {"title": "simple-jcps", "link":"https://github.com/abiskop/simple-jcps"},
+    {"title": "rememoize (nodejs)", "link":"https://www.npmjs.com/package/rememoize"}
+  ]
 }
