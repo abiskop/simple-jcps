@@ -1,0 +1,27 @@
+{
+  "name": "simple-jcps",
+  "version": "0.0.1",
+  "author": "Alexander Biskop",
+  "homepage": "https://github.com/abiskop/simple-jcps",
+  "description": "Simplified version of https://github.com/christophior/JSONConfigurablePersonalSite.git",
+  "main": "solidify.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abiskop/simple-jcps.git"
+  },
+  "scripts": {
+    "start": "node solidify.js"
+  },
+  "dependencies": {
+    "handlebars": "^3.0.3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abiskop/simple-jcps/issues"
+  },
+  "keywords": [
+    "website",
+    "generator",
+    "json"
+  ]
+}
