@@ -7,6 +7,7 @@
   "icons": [
     {"icon": "social-github", "link": "https://github.com/abiskop"},
     {"icon": "social-stack-overflow", "link": "http://stackoverflow.com/users/342875/alexander-biskop"},
+    {"icon": "social-facebook", "link": "https://www.facebook.com/abiskop"},
     {"icon": "paperclip", "link": "https://todo.todo"}
   ],
   "projects": [
