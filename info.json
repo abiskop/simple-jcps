@@ -8,10 +8,10 @@
     {"icon": "social-github", "link": "https://github.com/abiskop"},
     {"icon": "social-stack-overflow", "link": "http://stackoverflow.com/users/342875/alexander-biskop"},
     {"icon": "social-facebook", "link": "https://www.facebook.com/abiskop"},
-    {"icon": "paperclip", "link": "https://todo.todo"}
+    {"icon": "paperclip", "link": "https://s3-eu-west-1.amazonaws.com/static.a2x.me/resume/e8vwtaxeiqz18e4xyoz3npkjpb9r7ihu/Resume_Alexander_Biskop.pdf"}
   ],
   "projects": [
-    {"title": "simple-jcps", "link":"https://github.com/abiskop/simple-jcps"},
-    {"title": "rememoize (nodejs)", "link":"https://www.npmjs.com/package/rememoize"}
+    {"title": "rememoize (nodejs)", "link":"https://www.npmjs.com/package/rememoize"},
+    {"title": "simple-jcps", "link":"https://github.com/abiskop/simple-jcps"}
   ]
 }
