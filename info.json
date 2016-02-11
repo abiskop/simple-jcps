@@ -6,6 +6,7 @@
   "description": "Hi there! I'm Alexander Biskop, Software Engineer. Currently living in San Mateo, CA. For hire in the SF Bay Area.",
   "icons": [
     {"icon": "social-github", "link": "https://github.com/abiskop"},
+    {"icon": "social-linkedin", "link": "https://www.linkedin.com/in/alexander-biskop-811475114"},
     {"icon": "social-stack-overflow", "link": "http://stackoverflow.com/users/342875/alexander-biskop"},
     {"icon": "social-facebook", "link": "https://www.facebook.com/abiskop"},
     {"icon": "paperclip", "link": "https://s3-eu-west-1.amazonaws.com/static.a2x.me/resume/e8vwtaxeiqz18e4xyoz3npkjpb9r7ihu/Resume_Alexander_Biskop.pdf"}
